@@ -1,0 +1,46 @@
+<configs>
+
+<insertAfter xpath="/lootcontainers/lootgroup[@name='treasureAmmo']">
+	<lootgroup name="noteDadJokesITAV" count="1">
+		<item name="noteDadJoke01ITAV"/>
+		<item name="noteDadJoke02ITAV"/>
+		<item name="noteDadJoke03ITAV"/>
+		<item name="noteDadJoke04ITAV"/>
+		<item name="noteDadJoke05ITAV"/>
+		<item name="noteDadJoke06ITAV"/>
+		<item name="noteDadJoke07ITAV"/>
+		<item name="noteDadJoke08ITAV"/>
+		<item name="noteDadJoke09ITAV"/>
+		<item name="noteDadJoke10ITAV"/>
+		<item name="noteDadJoke11ITAV"/>
+		<item name="noteDadJoke12ITAV"/>
+		<item name="noteDadJoke13ITAV"/>
+		<item name="noteDadJoke14ITAV"/>
+		<item name="noteDadJoke15ITAV"/>
+		<item name="noteDadJoke16ITAV"/>
+		<item name="noteDadJoke17ITAV"/>
+		<item name="noteDadJoke18ITAV"/>
+		<item name="noteDadJoke19ITAV"/>
+		<item name="noteDadJoke20ITAV"/>
+		<item name="noteDadJoke21ITAV"/>
+		<item name="noteDadJoke22ITAV"/>
+		<item name="noteDadJoke23ITAV"/>
+		<item name="noteDadJoke24ITAV"/>
+		<item name="noteDadJoke25ITAV"/>
+		<item name="noteDadJoke26ITAV"/>
+		<item name="noteDadJoke27ITAV"/>
+		<item name="noteDadJoke28ITAV"/>
+		<item name="noteDadJoke29ITAV"/>
+		<item name="noteDadJoke30ITAV"/>
+		<item name="noteDadJoke31ITAV"/>
+		<item name="noteDadJoke32ITAV"/>
+		<item name="noteDadJoke33ITAV"/>
+	</lootgroup>
+</insertAfter>
+
+<append xpath="//lootgroup[@name='groupMailbox02']">
+	<item group="noteDadJokesITAV" loot_prob_template="low"/>	
+</append>
+
+
+</configs>

@@ -1,0 +1,52 @@
+<configs>
+<append xpath="/items">
+
+	<item name="noteDadJokeMasterITAV">
+		<property name="Extends" value="blankNoteMaster"/>
+		<property name="CreativeMode" value="None"/>
+		<property name="DescriptionKey" value="noteDadJoke01ITAVDesc"/>
+		<property name="CustomIcon" value="resourcePaper"/>
+		<property name="CustomIconTint" value="A7ECFC" />
+		<property name="Material" value="Mpaper"/>
+		<property name="Weight" value="2"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="EconomicValue" value="1"/>
+	</item>
+	
+	<item name="noteDadJoke01ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke01ITAVDesc"/></item>	
+	<item name="noteDadJoke02ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke02ITAVDesc"/></item>	
+	<item name="noteDadJoke03ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke03ITAVDesc"/></item>
+	<item name="noteDadJoke04ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke04ITAVDesc"/></item>	
+	<item name="noteDadJoke05ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke05ITAVDesc"/></item>	
+	<item name="noteDadJoke06ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke06ITAVDesc"/></item>	
+	<item name="noteDadJoke07ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke07ITAVDesc"/></item>	
+	<item name="noteDadJoke08ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke08ITAVDesc"/></item>	
+	<item name="noteDadJoke09ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke09ITAVDesc"/></item>	
+	<item name="noteDadJoke10ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke10ITAVDesc"/></item>	
+	<item name="noteDadJoke11ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke11ITAVDesc"/></item>	
+	<item name="noteDadJoke12ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke12ITAVDesc"/></item>	
+	<item name="noteDadJoke13ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke13ITAVDesc"/></item>	
+	<item name="noteDadJoke14ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke14ITAVDesc"/></item>	
+	<item name="noteDadJoke15ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke15ITAVDesc"/></item>	
+	<item name="noteDadJoke16ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke16ITAVDesc"/></item>
+	<item name="noteDadJoke17ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke17ITAVDesc"/></item>	
+	<item name="noteDadJoke18ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke18ITAVDesc"/></item>	
+	<item name="noteDadJoke19ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke19ITAVDesc"/></item>
+	<item name="noteDadJoke20ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke20ITAVDesc"/></item>
+	<item name="noteDadJoke21ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke21ITAVDesc"/></item>	
+	<item name="noteDadJoke22ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke22ITAVDesc"/></item>	
+	<item name="noteDadJoke23ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke23ITAVDesc"/></item>	
+	<item name="noteDadJoke24ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke24ITAVDesc"/></item>	
+	<item name="noteDadJoke25ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke25ITAVDesc"/></item>	
+	<item name="noteDadJoke26ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke26ITAVDesc"/></item>
+	<item name="noteDadJoke27ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke27ITAVDesc"/></item>	
+	<item name="noteDadJoke28ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke28ITAVDesc"/></item>	
+	<item name="noteDadJoke29ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke29ITAVDesc"/></item>	
+	<item name="noteDadJoke30ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke30ITAVDesc"/></item>	
+	<item name="noteDadJoke31ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke31ITAVDesc"/></item>
+	<item name="noteDadJoke32ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke32ITAVDesc"/></item>	
+	<item name="noteDadJoke33ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke33ITAVDesc"/></item>	
+
+</append>
+
+</configs>

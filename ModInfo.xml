@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<ModInfo>
+		<Name value="Dad Jokes in Mailboxes"/>
+		<Description value="We might never know why dads of the apocalypse used their last moments to place remenants of their wits in mailboxes.
+		All we know is that they did. And that we will suffer for it.
+		
+		'Dad Jokes in Mailboxes' is a small part of the overhaul server-side friendly modlet 'It Takes A Village'."/>
+		<Author value="Khym"/>
+		<Version value="1.0"/>
+	</ModInfo>
+</xml>
