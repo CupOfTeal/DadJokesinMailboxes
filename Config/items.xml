@@ -45,7 +45,33 @@
 	<item name="noteDadJoke30ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke30ITAVDesc"/></item>	
 	<item name="noteDadJoke31ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke31ITAVDesc"/></item>
 	<item name="noteDadJoke32ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke32ITAVDesc"/></item>	
-	<item name="noteDadJoke33ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke33ITAVDesc"/></item>	
+	<item name="noteDadJoke33ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke33ITAVDesc"/></item>
+	<item name="noteDadJoke34ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke34ITAVDesc"/></item>	
+	<item name="noteDadJoke35ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke35ITAVDesc"/></item>
+	<item name="noteDadJoke36ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke36ITAVDesc"/></item>
+	<item name="noteDadJoke37ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke37ITAVDesc"/></item>	
+	<item name="noteDadJoke38ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke38ITAVDesc"/></item>	
+	<item name="noteDadJoke39ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke39ITAVDesc"/></item>	
+	<item name="noteDadJoke40ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke40ITAVDesc"/></item>
+	<item name="noteDadJoke41ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke41ITAVDesc"/></item>
+	<item name="noteDadJoke42ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke42ITAVDesc"/></item>
+	<item name="noteDadJoke43ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke43ITAVDesc"/></item>
+	<item name="noteDadJoke44ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke44ITAVDesc"/></item>
+	<item name="noteDadJoke45ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke45ITAVDesc"/></item>
+	<item name="noteDadJoke46ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke46ITAVDesc"/></item>
+	<item name="noteDadJoke47ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke47ITAVDesc"/></item>
+	<item name="noteDadJoke48ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke48ITAVDesc"/></item>
+	<item name="noteDadJoke49ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke49ITAVDesc"/></item>
+	<item name="noteDadJoke50ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke50ITAVDesc"/></item>
+	<item name="noteDadJoke51ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke51ITAVDesc"/></item>
+	<item name="noteDadJoke52ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke52ITAVDesc"/></item>
+	<item name="noteDadJoke53ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke53ITAVDesc"/></item>
+	<item name="noteDadJoke54ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke54ITAVDesc"/></item>
+	<item name="noteDadJoke55ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke55ITAVDesc"/></item>
+	<item name="noteDadJoke56ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke56ITAVDesc"/></item>
+	<item name="noteDadJoke57ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke57ITAVDesc"/></item>
+	<item name="noteDadJoke58ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke58ITAVDesc"/></item>
+	<item name="noteDadJoke59ITAV"><property name="Extends" value="noteDadJokeMasterITAV"/><property name="DescriptionKey" value="noteDadJoke59ITAVDesc"/></item>	
 
 </append>
 
