@@ -62,10 +62,15 @@
 		<item name="noteDadJoke58ITAV"/>
 		<item name="noteDadJoke59ITAV"/>
 	</lootgroup>
+	
+	<lootgroup name="noteDadJokesITAVPapertrail">
+        <item group="noteDadJokesITAV" loot_prob_template="low"/>
+        <item name="resourcePaper" loot_prob_template="high"/>
+    </lootgroup>
 </insertAfter>
 
-<append xpath="//lootgroup[@name='groupMailbox02']">
-	<item group="noteDadJokesITAV" loot_prob_template="low"/>	
+<append xpath="//lootgroup[@name='groupMailbox']">
+    <item group="noteDadJokesITAVPapertrail" />
 </append>
 
 
